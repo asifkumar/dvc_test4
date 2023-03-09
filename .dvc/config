@@ -1,4 +1,6 @@
 [core]
-    remote = pdrive
+    remote = pdstorage
 ['remote "pdrive"']
     url = P:\Test\ai_dvc\
+['remote "pdstorage"']
+    url = P:\Test\DVC\
