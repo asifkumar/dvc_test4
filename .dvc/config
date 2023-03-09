@@ -1,0 +1,4 @@
+[core]
+    remote = pdrive
+['remote "pdrive"']
+    url = P:\Test\DVC
